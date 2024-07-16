@@ -26,6 +26,8 @@ body {
     position: absolute;
     top: 90px; /* Adjust as needed */
     left: 0px;
+    padding-left: 80px;
+    padding-top: 50px;
     display: flex;
     justify-content: center; /* Center align items horizontally */
 }
