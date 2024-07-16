@@ -27,7 +27,7 @@ body {
     top: 90px; /* Adjust as needed */
     left: 0px;
     padding-left: 80px;
-    padding-top: 50px;
+    padding-top: 0px;
     display: flex;
     justify-content: center; /* Center align items horizontally */
 }
@@ -98,7 +98,7 @@ h2 {
     margin-right: 0;
     padding-left: 0;
     padding-right: 0;
-    color: rgb(35, 72, 151);
+    color: rgb(161, 64, 0);
 }
 
 .poem {
