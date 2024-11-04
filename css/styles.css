@@ -22,6 +22,19 @@ body {
     display: block;
 }
 
+.image-row {
+    display: flex;
+    justify-content: space-between; /* Adjusts spacing between images */
+    align-items: center; /* Aligns images vertically */
+}
+
+.row-image {
+    height: 500px; /* Adjust this to your desired height */
+    width: auto; /* Allows width to adjust automatically */
+    object-fit: cover; /* Ensures images are cropped to fit without distortion */
+}
+
+
 .overlay-homepage {
     position: absolute;
     top: 90px; /* Adjust as needed */
