@@ -4,8 +4,8 @@ body {
     padding-left: 4%;
     padding-right: 4%;
     padding-top: 0%;
-    font-family: Arial, sans-serif;
-    font-size: 13px;
+    font-family: Georgia, serif;
+    font-size: 18px;
 }
 
 .image-container {
@@ -117,12 +117,21 @@ h2 {
 .poem {
     white-space: pre-wrap; /* Preserves whitespace and line breaks */
     display: block;
-    font-size: 14px;
+    font-size: 16px;
 }
+
+.racconto {
+    white-space: pre-wrap; /* Preserves whitespace and line breaks */
+    display: block;
+    font-size: 16px;
+    max-width: 14cm; /* Sets a narrow width, similar to your Google Docs specification */
+    text-align: justify; /* Justifies the text */
+}
+
 
 .content {
     max-width: 500px; /* Adjust the max-width as needed */
-    font-size: 14px;
+    font-size: 16px;
 }
 
 /* Media query for mobile devices */
