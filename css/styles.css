@@ -126,6 +126,7 @@ h2 {
     font-size: 16px;
     max-width: 14cm; /* Sets a narrow width, similar to your Google Docs specification */
     text-align: justify; /* Justifies the text */
+    line-height: 1.6; /* Adjust this value to increase or decrease spacing */
 }
 
 
