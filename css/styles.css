@@ -39,7 +39,7 @@ body {
     position: absolute;
     top: 90px; /* Adjust as needed */
     left: 0px;
-    padding-left: 80px;
+    padding-left: 0px;
     padding-top: 0px;
     display: flex;
     justify-content: center; /* Center align items horizontally */
